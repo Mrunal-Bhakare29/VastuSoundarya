@@ -1,0 +1,8 @@
+{
+  "short_name": "VastuSoundarya",
+  "name": "VastuSoundarya - Architecture & Design",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1A1A1A",
+  "background_color": "#ffffff"
+}
